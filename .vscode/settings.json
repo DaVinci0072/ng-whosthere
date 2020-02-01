@@ -1,0 +1,18 @@
+{
+    "vsicons.presets.angular": true,
+    "editor.fontFamily": "'Courier New', Consolas, monospace",
+    "editor.fontSize": 12,
+    "files.exclude": {
+      "node_modules/": true,
+      "dist/": true,
+      "e2e/": true,
+      ".vscode": true,
+      ".editorconfig/": true,
+      "browserslist/": true,
+      "karma.conf.js/": true,
+      "package-lock.json/": true,
+      "tsconfig.app.json/": true,
+      "tsconfig.spec.json/": true,
+      "tsling.json/": true
+  }
+}
